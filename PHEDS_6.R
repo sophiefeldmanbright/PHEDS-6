@@ -20,4 +20,4 @@ c <- 10*10
 
 # 4. Write whatever you want below as a comment (start the line with a #)
 #It is really interesting to see how this works###
-#How does this interface compare with Git?
+#How does this interface (Git desktop) compare with Git? Do they perform the same function?
