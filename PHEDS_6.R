@@ -5,6 +5,7 @@
 # 1. Add your full name as a new variable to the list below
 Sophie <- "Sophie Feldman Bright"
 Ed <- "Ed Feldman Bright"
+test <- "test"
 
 # 2. Rewrite the variables below with your own favourite things (to show what happens when you change something in the script)
 Favourite_colour <- "purple"
