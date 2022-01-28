@@ -6,10 +6,12 @@
 Sophie <- "Sophie Feldman Bright"
 Ed <- "Ed Feldman Bright"
 Lucy <- "Lucy Burke"
+James<- "James Oguta"
 
 # 2. Rewrite the variables below with your own favourite things (to show what happens when you change something in the script)
 Favourite_colour <- "yellow"
 Favourite_animal <- "giraffe"
+Favourite_dish <- "Ngege"
 
 # 3. Delete all of the script below
 
@@ -18,3 +20,4 @@ Favourite_animal <- "giraffe"
 # 4. Write whatever you want below as a comment (start the line with a #)
 
 #has it worked?
+# The initial script has worked perfectly well
