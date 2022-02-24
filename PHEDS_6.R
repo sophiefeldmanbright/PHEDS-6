@@ -13,7 +13,5 @@ Favourite_animal <- "unicorn"
 
 # 3. Delete all of the script below
 
-
 # 4. Write whatever you want below as a comment (start the line with a #)
-
-# I like turtles
+#hello everyone
